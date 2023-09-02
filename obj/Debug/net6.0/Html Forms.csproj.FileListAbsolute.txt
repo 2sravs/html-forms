@@ -1,0 +1,31 @@
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\appsettings.Development.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\appsettings.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.staticwebassets.runtime.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.exe
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.deps.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.runtimeconfig.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.dll
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\bin\Debug\net6.0\Html Forms.pdb
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.csproj.AssemblyReference.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.AssemblyInfoInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.AssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.csproj.CoreCompileInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.MvcApplicationPartsAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.RazorAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.RazorAssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets\msbuild.Html Forms.Microsoft.AspNetCore.StaticWebAssets.props
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets\msbuild.build.Html Forms.props
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Html Forms.props
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Html Forms.props
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets.pack.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets.build.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\staticwebassets.development.json
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\scopedcss\bundle\Html Forms.styles.css
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\scopedcss\projectbundle\Html Forms.bundle.scp.css
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.dll
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\refint\Html Forms.dll
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.pdb
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\Html Forms.genruntimeconfig.cache
+D:\simplIlearn\Phase-3\Assisted projects\Html Forms\Html Forms\obj\Debug\net6.0\ref\Html Forms.dll
